@@ -1,0 +1,8 @@
+C:\LPOOI_GRUPO_01\ClasesBase\bin\Debug\optica.mdf
+C:\LPOOI_GRUPO_01\ClasesBase\bin\Debug\optica_log.ldf
+C:\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
